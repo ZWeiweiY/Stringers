@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39507569771",
+    "project_id": "stringers-88db4",
+    "storage_bucket": "stringers-88db4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39507569771:android:43234f686e94e0789a552e",
+        "android_client_info": {
+          "package_name": "com.cmuetc.Stringers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QXgCXpICqLL2JH6FV6yh6_M04ci9oPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

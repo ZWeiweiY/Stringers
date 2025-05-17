@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b46f5407d90592b4a8a491df7b170676
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenu: {fileID: 8300000, guid: 1ba37b9c3d4227348ba093696ccd2862, type: 3}
+  - playgroundMusic: {fileID: 8300000, guid: d1bb08c45da8ae44f9335ac34aa51d16, type: 3}
+  - level2Music: {fileID: 8300000, guid: eedcb17699cd9e2448ba78b7e8aec870, type: 3}
+  - level3Music: {fileID: 8300000, guid: 179c1b5ca542a314cb030e923541fe90, type: 3}
+  - countDownSE: {fileID: 8300000, guid: 8ca014d3086d60d4babc152bae72d2ac, type: 3}
+  - deathSE: {fileID: 8300000, guid: 3ebd18a40573aed498c4170da0d0293e, type: 3}
+  - rebornSE: {fileID: 8300000, guid: f638565a4740d6747abe69c79f431ccf, type: 3}
+  - levelFinishSE: {fileID: 8300000, guid: 363e48c92c6665c4cb13ae3338ce2349, type: 3}
+  - eatPlanetSE: {fileID: 8300000, guid: bef0a5dec2ee14e458bdbf7218b3c07b, type: 3}
+  - firingSE: {fileID: 8300000, guid: 85b08b2a9be4da849b1d94e397403f86, type: 3}
+  - dashSE: {fileID: 8300000, guid: 5cb8ddeb67f3add45b3827b704e62520, type: 3}
+  - explosionSE: {fileID: 8300000, guid: 0e7d21f3f1abf324b9d9873689ede376, type: 3}
+  - shrinkSE: {fileID: 8300000, guid: 79f815d591efa6445bcd028983664b35, type: 3}
+  - expandSE: {fileID: 8300000, guid: 731ed9ac545b22147a075821c0c15d31, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
